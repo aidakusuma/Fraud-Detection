@@ -15,6 +15,7 @@ The dataset consists of five CSV files:
 - `non_borrower_user.csv`: Data on users with infrequent loan activities
 - `test.csv`: User data for prediction
 - `sample_submission.csv`: Sample submission file
+
 link datasets: https://www.kaggle.com/competitions/ristek-datathon-2024/data 
 
 ## Key Findings and Methodology

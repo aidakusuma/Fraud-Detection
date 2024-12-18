@@ -1,5 +1,9 @@
 # RISTEK Datathon 2024: Fraud Detection on Fintech Platforms
 
+Members:
+- Aida Kusuma Wardah
+- 
+
 ## Project Overview
 This project aims to develop a machine learning model to detect fraudulent activities in fintech platform users. The objective is to identify users who have borrowed financial products but have not made payments by the predetermined deadline.
 
@@ -72,3 +76,5 @@ Top features influencing fraud detection:
 
 ## Acknowledgments
 RISTEK Datathon 2024 Fraud Detection Challenge
+
+
